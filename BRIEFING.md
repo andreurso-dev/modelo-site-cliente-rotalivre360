@@ -32,7 +32,12 @@ Preencha com o cliente (ou cole as respostas dele no chat). Deixe em branco o qu
 - Textos prontos? (sim/não/parcial):
 - Fotos próprias? (link da pasta):
 - Depoimentos reais (com autorização):
-- Contatos: WhatsApp, telefone, e-mail, endereço, horário, redes sociais:
+- Contatos: WhatsApp, telefone, e-mail, redes sociais:
+- Endereço completo com CEP (ou "atende sem endereço fixo"):
+- Cidades/bairros atendidos:
+- Horário de funcionamento por dia da semana:
+- Link do perfil no Google Meu Negócio (nome, endereço e telefone devem ser iguais aos do site):
+- Categoria do negócio (ex.: agência de turismo, restaurante, pousada, loja):
 
 ## Técnico
 - Domínio (já tem? qual?):
